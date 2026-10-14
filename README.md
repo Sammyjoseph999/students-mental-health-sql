@@ -20,3 +20,7 @@ SQL analysis of a 2018 survey at a Japanese international university, looking at
 pip install -r requirements.txt
 jupyter notebook notebook.ipynb
 ```
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
